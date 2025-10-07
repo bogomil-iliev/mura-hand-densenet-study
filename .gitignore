@@ -211,3 +211,18 @@ __marimo__/
 *.pt
 *.ckpt
 
+# project-specific
+__pycache__/
+.pretrained/
+pretrained/
+data/
+runs/
+logs/
+results/
+*.pth
+*.pt
+*.ckpt
+.DS_Store
+.vscode/
+
+
