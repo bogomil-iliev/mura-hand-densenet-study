@@ -2,6 +2,7 @@
 # Data (not in repo)
 # The data can be downloaded from the below link
 https://www.kaggle.com/datasets/bogomililiev2308/mura-hand-xray
+
 Expected layout (relative to repo root):
 
 data/
