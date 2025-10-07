@@ -1,7 +1,7 @@
 # MURA Hand — DenseNet-169 (study-level)
 
 ![Python](https://img.shields.io/badge/python-3.10+-informational)
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bogomil-iliev/mura-hand-densenet-study/blob/main/notebooks/mura_hand_study_pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bogomil-iliev/mura-hand-densenet-study/blob/main/notebooks/mura_hand_study_pipeline.ipynb)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
