@@ -1,4 +1,4 @@
-```yaml
+
 cff-version: 1.2.0
 message: "If you use this repository, please cite it."
 title: "MURA Hand — DenseNet-169 (study-level, PyTorch)"
@@ -16,4 +16,4 @@ preferred-citation:
       given-names: "Bogomil"
   year: 2023
   url: "https://github.com/bogomil-iliev/mura-hand-densenet-study/blob/main/docs/report_mura_hand.pdf"
-```
+
