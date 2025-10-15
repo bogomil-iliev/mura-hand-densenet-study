@@ -84,6 +84,6 @@ README.md
   
 
 ## Citation
-[➡️ Cite this repository](./CITATION.cff)"
+[➡️ Cite this repository](./CITATION.cff)
 
 
