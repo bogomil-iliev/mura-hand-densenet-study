@@ -79,13 +79,12 @@ README.md
   - **Old PyTorch idioms**: `loss.data[0]` etc. are legacy; consider `loss.item()` and `preds = (outputs > 0.5).float()`.
   - **torch/torchvision** are pinned in the requirements.txt you might want to unpin them if running on a local machine.
   - **Pretrained weights**
-  ```bash
   - Download the pre-trained model `model.pth` from the [v0.1.0 release](../../releases/tag/v0.1.0) (see “Assets”).
   - Place it in `pretrained/` or pass `--weights /path/to/model.pth` to the script.
-  ```
+  
 
 ## Citation
-```yaml
+yaml
 cff-version: 1.2.0
 message: "If you use this repository, please cite it."
 title: "MURA Hand — DenseNet-169 (study-level, PyTorch)"
@@ -104,4 +103,4 @@ preferred-citation:
   year: 2023
   url: "https://github.com/bogomil-iliev/mura-hand-densenet-study/blob/main/docs/report_mura_hand.pdf"
 
-```
+
