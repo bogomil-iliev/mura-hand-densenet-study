@@ -12,10 +12,15 @@ Study-level abnormality detection on the **MURA hand** subset with a **DenseNet-
 ## Quickstart
 
 ### 1) Environment
+
 ```bash
 python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
+or
+
+Run the Colab Link above.
+
 ### 2) Dataset
 Download MURA-v1.1 (hand subset) and place it as described in data/README.md.
 The code expects data/MURA-v1.1/... with the original train/valid splits and train_labeled_studies.csv, valid_labeled_studies.csv.
