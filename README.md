@@ -84,7 +84,7 @@ README.md
   
 
 ## Citation
-yaml
+
 cff-version: 1.2.0
 message: "If you use this repository, please cite it."
 title: "MURA Hand — DenseNet-169 (study-level, PyTorch)"
