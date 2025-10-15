@@ -84,23 +84,6 @@ README.md
   
 
 ## Citation
-
-cff-version: 1.2.0
-message: "If you use this repository, please cite it."
-title: "MURA Hand — DenseNet-169 (study-level, PyTorch)"
-authors:
-  - family-names: "Iliev"
-    given-names: "Bogomil"
-repository-code: "https://github.com/bogomil-iliev/mura-hand-densenet-study"
-keywords: ["medical imaging","x-ray","mura","pytorch","densenet","classification","study-level"]
-license: "MIT"
-preferred-citation:
-  type: report
-  title: "Identification of Bone Fractures from Hand X-ray Images via Machine Learning Models"
-  authors:
-    - family-names: "Iliev"
-      given-names: "Bogomil"
-  year: 2023
-  url: "https://github.com/bogomil-iliev/mura-hand-densenet-study/blob/main/docs/report_mura_hand.pdf"
+[➡️ Cite this repository](./CITATION.cff)"
 
 
