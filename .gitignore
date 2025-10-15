@@ -225,4 +225,10 @@ results/
 .DS_Store
 .vscode/
 
+#ignore pre-trained model files
+*.pth
+*.pt
+*.ckpt
+
+
 
